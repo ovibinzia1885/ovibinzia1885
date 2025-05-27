@@ -1,8 +1,7 @@
 ### Hi there 👋
  
 - 🔭 I’m currently working on "SQA Engineer at BJIT LTD"
-- 🤔 I’m looking for help with Game Testing 
-- 💬 Ask me about Manual Testing(Test Case Writing, API Testing, Load Testing), Automation Testing(Selenium, MobileApp Testing, API Automation,CuCumber), UML,SQL. 
+- 💬 Ask me about Manual Testing(Test Case Writing, API Testing, Load Testing), Automation Testing(Selenium, API Automation), UML,SQL. 
 
 
 ## 🛠️ My Skills
