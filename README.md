@@ -1,7 +1,7 @@
 ### Hi there 👋
  
 - 🔭 I’m currently working on "SQA Engineer at BJIT LTD"
-- 💬 Ask me about Manual Testing(Test Case Writing, API Testing, Load Testing), Automation Testing(Selenium, API Automation), UML,SQL. 
+- 💬 Ask me about Manual Testing(Test Case Writing,Test Plan etc ), Automation Testing( API Testing, Load Testing, Selenium with java), UML, SQL. 
 
 
 ## 🛠️ My Skills
